@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zs2r8t.saturadar88win.cfd/sitemap.xml
